@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Alex used 4<sup>-2</sup> blocks on one level. How would you simplify this expression?",
+        "options": [
+            "./assests/optionImg/1.jpg",
+            "./assests/optionImg/2.jpg",
+            "./assests/optionImg/3.jpg",
+            "./assests/optionImg/4.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What does 5<sup>0</sup> equal?",
+        "options": [
+            "0",
+            "1",
+            "5",
+            "Undefined"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Simplify 3<sup>-3</sup>.",
+        "options": [
+            "./assests/optionImg/5.jpg",
+            "./assests/optionImg/6.jpg",
+            "./assests/optionImg/7.jpg",
+            "./assests/optionImg/8.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What is the value of (-100)<sup>0</sup>?",
+        "options": [
+            "0",
+            "10",
+            "1",
+            "100"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Which of the following equals 2<sup>-3</sup>?",
+        "options": [
+            "./assests/optionImg/9.jpg",
+            "./assests/optionImg/10.jpg",
+            "./assests/optionImg/11.jpg",
+            "./assests/optionImg/12.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "If Alex placed blocks according to 7<sup>0</sup>, how many blocks would he have?",
+        "options": [
+            "0 blocks",
+            "7 blocks",
+            "1 block",
+            "10 blocks"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Which of these is equal to <img width='50%' src='./assests/images/2.png'>",
+        "options": [
+            "./assests/optionImg/13.jpg",
+            "./assests/optionImg/14.jpg",
+            "./assests/optionImg/15.jpg",
+            "./assests/optionImg/16.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8",
+        "question": "How would you simplify 6<sup>0</sup>?",
+        "options": [
+            "6",
+            "1",
+            "0",
+            "-6"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9",
+        "question": "what is 4<sup>-3</sup>. If<br><img width='50%' src='./assests/images/1.png'> ",
+        "options": [
+            "./assests/optionImg/17.jpg",
+            "./assests/optionImg/18.jpg",
+            "./assests/optionImg/19.jpg",
+            "./assests/optionImg/20.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10",
+        "question": "What does a negative exponent tell you to do?",
+        "options": [
+            "Multiply the base by the exponent",
+            "Flip the base into a fraction and apply the positive exponent",
+            "Subtract the exponent from the base",
+            "Add the base to the exponent"
+        ],
+        "correct": 1
+    }
+]
